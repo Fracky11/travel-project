@@ -1,6 +1,35 @@
-h1{
-  color: blue;
+h2{
+  padding:40px 0px 20px 0px;
+  text-align: center;
 }
-p{
-  font-family: 'Arial';
+h3{
+  text-align: center;
+  padding: 10px;
+}
+.aboutUsWords{
+  padding:20px;
+}
+#wrapper {
+  
+  max-width:1100px;
+  margin: 0 auto;
+  //background-color: #efefef;
+  padding-top:80px;
+}
+#aboutUsContainer{
+  background-color:red;
+}
+#largeImageContainer{
+  margin: -15px;
+}
+#galleryContainer{
+  padding:0px;
+}
+#slidingGallery{
+  margin: 0 auto;
+  padding-top:200px;
+  border: 1px dotted grey;
+}
+.thumbs{
+  margin: 16px -14px 14px -12.3px;
 }
